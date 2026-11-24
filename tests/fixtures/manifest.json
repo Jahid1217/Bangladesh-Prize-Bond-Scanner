@@ -1,0 +1,142 @@
+[
+  {
+    "serial": "1126225",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_01_1126225.png",
+    "strip": "tests/fixtures/strip_01_1126225.png"
+  },
+  {
+    "serial": "3334053",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_02_3334053.png",
+    "strip": "tests/fixtures/strip_02_3334053.png"
+  },
+  {
+    "serial": "1809570",
+    "denomination": 200,
+    "bengali": true,
+    "image": "tests/fixtures/bond_03_1809570.png",
+    "strip": "tests/fixtures/strip_03_1809570.png"
+  },
+  {
+    "serial": "9542417",
+    "denomination": 200,
+    "bengali": true,
+    "image": "tests/fixtures/bond_04_9542417.png",
+    "strip": "tests/fixtures/strip_04_9542417.png"
+  },
+  {
+    "serial": "0198246",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_05_0198246.png",
+    "strip": "tests/fixtures/strip_05_0198246.png"
+  },
+  {
+    "serial": "3629903",
+    "denomination": 200,
+    "bengali": true,
+    "image": "tests/fixtures/bond_06_3629903.png",
+    "strip": "tests/fixtures/strip_06_3629903.png"
+  },
+  {
+    "serial": "8308496",
+    "denomination": 1000,
+    "bengali": true,
+    "image": "tests/fixtures/bond_07_8308496.png",
+    "strip": "tests/fixtures/strip_07_8308496.png"
+  },
+  {
+    "serial": "3571029",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_08_3571029.png",
+    "strip": "tests/fixtures/strip_08_3571029.png"
+  },
+  {
+    "serial": "0895667",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_09_0895667.png",
+    "strip": "tests/fixtures/strip_09_0895667.png"
+  },
+  {
+    "serial": "6456778",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_10_6456778.png",
+    "strip": "tests/fixtures/strip_10_6456778.png"
+  },
+  {
+    "serial": "2325772",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_11_2325772.png",
+    "strip": "tests/fixtures/strip_11_2325772.png"
+  },
+  {
+    "serial": "1197251",
+    "denomination": 1000,
+    "bengali": true,
+    "image": "tests/fixtures/bond_12_1197251.png",
+    "strip": "tests/fixtures/strip_12_1197251.png"
+  },
+  {
+    "serial": "1476417",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_13_1476417.png",
+    "strip": "tests/fixtures/strip_13_1476417.png"
+  },
+  {
+    "serial": "9377370",
+    "denomination": 200,
+    "bengali": true,
+    "image": "tests/fixtures/bond_14_9377370.png",
+    "strip": "tests/fixtures/strip_14_9377370.png"
+  },
+  {
+    "serial": "7662275",
+    "denomination": 200,
+    "bengali": true,
+    "image": "tests/fixtures/bond_15_7662275.png",
+    "strip": "tests/fixtures/strip_15_7662275.png"
+  },
+  {
+    "serial": "6182627",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_16_6182627.png",
+    "strip": "tests/fixtures/strip_16_6182627.png"
+  },
+  {
+    "serial": "9479201",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_17_9479201.png",
+    "strip": "tests/fixtures/strip_17_9479201.png"
+  },
+  {
+    "serial": "1148050",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_18_1148050.png",
+    "strip": "tests/fixtures/strip_18_1148050.png"
+  },
+  {
+    "serial": "4183667",
+    "denomination": 400,
+    "bengali": true,
+    "image": "tests/fixtures/bond_19_4183667.png",
+    "strip": "tests/fixtures/strip_19_4183667.png"
+  },
+  {
+    "serial": "1498591",
+    "denomination": 600,
+    "bengali": true,
+    "image": "tests/fixtures/bond_20_1498591.png",
+    "strip": "tests/fixtures/strip_20_1498591.png"
+  }
+]

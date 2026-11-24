@@ -1,0 +1,13 @@
+.venv
+.vendor
+node_modules
+frontend/node_modules
+frontend/dist
+database
+exports
+certs
+tests
+.git
+**/__pycache__
+*.pyc
+*.log

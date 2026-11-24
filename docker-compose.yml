@@ -1,0 +1,24 @@
+services:
+  scanner:
+    build: .
+    container_name: prize-bond-scanner
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+      # Uncomment when running with HTTPS (see docs/CAMERA.md):
+      # - "8443:8443"
+    environment:
+      PBS_DB_PATH: /data/database/prize_bonds.db
+      PBS_EXPORTS_DIR: /data/exports
+      PBS_CAPTURES_DIR: /data/database/captures
+      PBS_TESSERACT_CMD: /usr/bin/tesseract
+      PBS_TARGET: "2000"
+      PBS_OCR_LANG: ben+eng
+      PBS_CORS_ORIGINS: "*"
+      TZ: Asia/Dhaka
+    volumes:
+      - ./database:/data/database
+      - ./exports:/data/exports
+      - ./certs:/certs:ro
+    # For HTTPS (Android camera), generate certs on the host and use:
+    # command: ["python", "backend/run.py", "--host", "0.0.0.0", "--port", "8443", "--ssl"]

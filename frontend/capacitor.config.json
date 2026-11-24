@@ -1,0 +1,11 @@
+{
+  "appId": "bd.prizebond.scanner",
+  "appName": "Prize Bond Scanner",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

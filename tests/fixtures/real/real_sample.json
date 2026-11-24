@@ -1,0 +1,7 @@
+{
+  "image": "tests/fixtures/real/prize_bond_100_bangladeshpost.jpg",
+  "source": "https://bangladeshpost.net/posts/how-to-buy-prize-bond-in-bangladesh-69219",
+  "description": "Real 100 Taka Bangladesh Prize Bond press photo (512x265, low resolution).",
+  "expected_serial": "5013631",
+  "note": "Serial manually read from the bottom-right printing. This image is far lower resolution than a Vivo V21 frame; it is used to prove the pipeline refuses to save garbage on degraded input."
+}
